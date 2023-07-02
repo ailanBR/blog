@@ -1,26 +1,29 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+description = "Unable to live with doubt"
+date = "2023-06-02"
+aliases = ["about", "contact"]
+author = "Ailan"
 enableComments = false
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+# Hi
 
-Hugo makes use of a variety of open source projects including:
+# Career
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+My adventure in the coding word started with a phrase that walk with me in my entire life `If someone else did, why can't I ?`, after a long while playing one of the various Ragnarok private servers I decided to create my own, before I knew it I was eating tutorials like crazy and my own Ragnarok Private server was born `MetalicRO` !
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+As professional, after my graduation, I started with an old language [Cobol](https://pt.wikipedia.org/wiki/COBOL) in a big company [Capgemini](https://www.capgemini.com/?georedirect_none=true#) in the world of banking helping projects related to loan analytics for the [Bradesco](https://banco.bradesco/html/classic/index.shtm).
+After that I was hire to work in the [AmbevTech](https://www.ambevtech.com.br/) stated using the same language but migrated to `.Net C#` and after some years I decided to come back to the banking environment at [Nubank](https://nubank.com.br/en/) in the functional programming world with my currently favorite programming language [Clojure](https://clojure.org/). 
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+# Gamer
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+One of my passions is playing games, to be more specific competitive games, to be short I walk through a lot of game and I will list my favorites :
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+1. WYD
+2. Ragnarok
+3. Tibia
+4. MU
+4. Gunbound
+4. Dota
+5. League of Legends
