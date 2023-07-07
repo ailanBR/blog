@@ -2,13 +2,13 @@
 title = "About"
 description = "Unable to live with doubt"
 date = "2023-06-02"
-aliases = ["about", "contact"]
+tags = ["about", "contact"]
 author = "Ailan"
 enableComments = false
 +++
 
 # Hi
-
+ 
 # Career
 
 My adventure in the coding word started with a phrase that has been with me all my life `If someone else did, why can't I ?`, after a long time playing one of the various Ragnarok private servers I decided to create my own, before I realised, I was eating tutorials like crazy and my own Ragnarok Private server was born `MetalicRO` !
