@@ -8,3 +8,10 @@ My personal blog using [Hugo](https://gohugo.io/)
 - [Mini Theme](https://github.com/nodejh/hugo-theme-mini/tree/master)
 - [Mini Theme Demo](https://nodejh.com/hugo-theme-mini/about/)
 - 
+
+# Commands
+
+hugo -> Build the project
+hugo new -> New content
+hugo server -> Start high performance server
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>about on Ailan Batista</title>
+    <link>https://example.com/blog/tags/about/</link>
+    <description>Recent content in about on Ailan Batista</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Fri, 02 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/blog/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://example.com/blog/about/</link>
+      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/blog/about/</guid>
+      <description>Hi Career My adventure in the coding word started with a phrase that has been with me all my life If someone else did, why can&#39;t I ?</description>
+    </item>
+    
+  </channel>
+</rss>
