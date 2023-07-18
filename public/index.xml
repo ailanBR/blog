@@ -1,29 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ailan Cerqueira Batista</title>
+    <title>Ailan Batista</title>
     <link>https://example.com/blog/</link>
-    <description>Recent content on Ailan Cerqueira Batista</description>
+    <description>Recent content on Ailan Batista</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Sun, 18 Mar 2018 02:01:58 +0530</lastBuildDate><atom:link href="https://example.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Jul 2023 21:20:00 +0300</lastBuildDate><atom:link href="https://example.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>https://example.com/blog/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <title>Monthly Investment : June 2023</title>
+      <link>https://example.com/blog/posts/investment-jun-2023/</link>
+      <pubDate>Thu, 06 Jul 2023 21:20:00 +0300</pubDate>
       
-      <guid>https://example.com/blog/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content.</description>
+      <guid>https://example.com/blog/posts/investment-jun-2023/</guid>
+      <description>Resume This month the first idea was keep the strategy without strong chances in the balance, because of the already balanced allocation, lets look the allocation before the new investments :</description>
     </item>
     
     <item>
       <title>Primer: When You Have Too Much to Do</title>
       <link>https://example.com/blog/posts/post-1/</link>
-      <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
+      <pubDate>Sat, 01 Jul 2023 02:01:58 +0530</pubDate>
       
       <guid>https://example.com/blog/posts/post-1/</guid>
       <description>You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://example.com/blog/about/</link>
+      <pubDate>Fri, 02 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/blog/about/</guid>
+      <description>Hi Career My adventure in the coding word started with a phrase that has been with me all my life If someone else did, why can&#39;t I ?</description>
     </item>
     
   </channel>

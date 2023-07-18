@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GOOGL on Ailan Batista</title>
+    <link>https://example.com/blog/tags/googl/</link>
+    <description>Recent content in GOOGL on Ailan Batista</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Thu, 06 Jul 2023 21:20:00 +0300</lastBuildDate><atom:link href="https://example.com/blog/tags/googl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Monthly Investment : June 2023</title>
+      <link>https://example.com/blog/posts/investment-jun-2023/</link>
+      <pubDate>Thu, 06 Jul 2023 21:20:00 +0300</pubDate>
+      
+      <guid>https://example.com/blog/posts/investment-jun-2023/</guid>
+      <description>Resume This month the first idea was keep the strategy without strong chances in the balance, because of the already balanced allocation, lets look the allocation before the new investments :</description>
+    </item>
+    
+  </channel>
+</rss>

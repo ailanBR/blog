@@ -42,11 +42,11 @@ A little bit less in Neoenergia [`NEOE3`], one of the companies in the energy se
 
 # Brazil Fixed Income new apply and general strategy 
 
-The investment in fixed income follow to really easy why and is when `Money left after investments and pay bills`, the current government tax is really attractive to the private and public bounds and some months money left and to not put all the money in long term and risk investments let's put some in more short term and more safe investments.
+My investments in fixed income occur when `Money left after equities investments and pay bills`, the current government tax is really attractive to the private and public bounds and some months money left and to not put all the money in long term and risk investments let's put some in more short term and more safe investments.
 
 ### WHERE ?
 
-In fixed income we have a lot of types and index followed by this king of investment, today my investments are, by index :
+In fixed income we have a lot some index and today my current allocation are :
 
 | Index    | Allocation |
 |----------|------------|
@@ -86,13 +86,13 @@ After the Passfolio limiting the quantity of stocks buying per month I reduced t
 I will detail that in another post, to be shortly I decided to create a ranking between the IT companies in the US market, until this investment monthly  I try to maintain the allocation close between them.
 The ranking is that  :
 
-1. Microsoft - The recent acquisition of OpenAI and not to far acquisition of Activision Blizzard a holding in the gaming sector looks amazing, one thinking in the future of IA and the other a growing sector with a big potential
-2. Apple - Is the biggest brand in the world far from competition 
-3. Amazon - The diversification is a strong power and steal a dominant in the retail sector and most important in te cloud 
-4. Google - The dependency of AD is what made me a little scare, but this company have a strong potential with the data have  
+1. **Microsoft** - The recent acquisition of OpenAI and not to far acquisition of Activision Blizzard a holding in the gaming sector looks amazing, one thinking in the future of IA and the other a growing sector with a big potential
+2. **Apple** - Is the biggest brand in the world far from competition 
+3. **Amazon** - The diversification is a strong power and steal a dominant in the retail sector and most important in te cloud 
+4. **Google** - The dependency of AD is what made me a little scare, but this company have a strong potential with the data have  
 
 # New crypto ?! WHY ?!
 
-Looking at Binance Earn tokens I see an interesting token paying the profit in Bitcoin, the first time I see something like that and I stated to study the project, I'm talking about Stacks [`STX`] an amazing project that allow people to use bitcoin in decentralized solutions like ethereum does and is not only that is an old project with a amazing community and looking for the utilized language is name Clarity the syntax is really similar to Clojure ! I only said `Binance take my money` and put the tokens in the Binance Earn to take a more deep look in another period.  
+Looking at Binance Earn tokens I see an interesting token paying the profit in Bitcoin, the first time I see something like that and I started to study the project, I'm talking about Stacks [`STX`] an amazing project that allow people to use bitcoin in decentralized solutions like ethereum does and is not only that is an old project with a amazing community and looking for the utilized language is named Clarity, the syntax is really similar to Clojure ! I only said `"Binance shut up and take my money"` and put the tokens in the Binance Earn to take a more deep look in the project in the future.  
 
-I will create a post to share more about Stacks [`STX`], the new crypto in my portfolio ! 
+I will create a post to share more about Stacks [`STX`], the new crypto in my portfolio !

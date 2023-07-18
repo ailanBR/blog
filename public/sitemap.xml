@@ -2,25 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/blog/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://example.com/blog/</loc>
-    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
+    <lastmod>2023-07-06T21:20:00+03:00</lastmod>
+  </url><url>
+    <loc>https://example.com/blog/tags/amzn/</loc>
+    <lastmod>2023-07-06T21:20:00+03:00</lastmod>
+  </url><url>
+    <loc>https://example.com/blog/tags/appl/</loc>
+    <lastmod>2023-07-06T21:20:00+03:00</lastmod>
+  </url><url>
+    <loc>https://example.com/blog/tags/crypto/</loc>
+    <lastmod>2023-07-06T21:20:00+03:00</lastmod>
+  </url><url>
+    <loc>https://example.com/blog/tags/googl/</loc>
+    <lastmod>2023-07-06T21:20:00+03:00</lastmod>
+  </url><url>
+    <loc>https://example.com/blog/tags/investments/</loc>
+    <lastmod>2023-07-06T21:20:00+03:00</lastmod>
+  </url><url>
+    <loc>https://example.com/blog/posts/investment-jun-2023/</loc>
+    <lastmod>2023-07-06T21:20:00+03:00</lastmod>
+  </url><url>
+    <loc>https://example.com/blog/tags/msft/</loc>
+    <lastmod>2023-07-06T21:20:00+03:00</lastmod>
   </url><url>
     <loc>https://example.com/blog/posts/</loc>
-    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
-  </url><url>
-    <loc>https://example.com/blog/tags/primer/</loc>
-    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
-  </url><url>
-    <loc>https://example.com/blog/posts/post-1/</loc>
-    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
+    <lastmod>2023-07-06T21:20:00+03:00</lastmod>
   </url><url>
     <loc>https://example.com/blog/tags/</loc>
-    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
+    <lastmod>2023-07-06T21:20:00+03:00</lastmod>
+  </url><url>
+    <loc>https://example.com/blog/tags/primer/</loc>
+    <lastmod>2023-07-01T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>https://example.com/blog/posts/post-1/</loc>
+    <lastmod>2023-07-01T02:01:58+05:30</lastmod>
   </url><url>
     <loc>https://example.com/blog/tags/todo/</loc>
-    <lastmod>2018-03-18T02:01:58+05:30</lastmod>
+    <lastmod>2023-07-01T02:01:58+05:30</lastmod>
+  </url><url>
+    <loc>https://example.com/blog/tags/about/</loc>
+    <lastmod>2023-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/blog/about/</loc>
+    <lastmod>2023-06-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.com/blog/tags/contact/</loc>
+    <lastmod>2023-06-02T00:00:00+00:00</lastmod>
   </url>
 </urlset>

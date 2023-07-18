@@ -1,8 +1,8 @@
 baseURL = 'https://example.com/blog'
 languageCode = 'en-us'
 title = 'Ailan Batista'
-theme = 'ezhil'
-copyright = "© Copyright notice"
+theme = 'lob'
+copyright = "© Copyright Ailan"
 
 # Enable syntax highlighting.
 pygmentsstyle = "solarized-dark"
@@ -34,6 +34,7 @@ disableDisqusTypes = ["page"]
 featherIconsCDN = true
 
 # Specify favicon (icons/i.png maps to static/icons/i.png). No favicon if not defined.
+#TODO
 favicon = "icons/myicon.png"
 
 # Switch to dark mode or auto detect mode from OS (Optional).
@@ -43,14 +44,14 @@ mode = "dark" # "dark" or "auto"
 # Custom CSS added to default styles. Files added to `static` folder is copied as it is to
 # root by Hugo. For example if you have custom CSS file under `static/css/custom.css` then
 # you can specify custom css path as `css/custom.css`.
-customCSS = "css/custom.css"
+#customCSS = "css/custom.css"
 # Custom CSS added to dark mode style.
-customDarkCSS = "css/custom-dark.css"
+#customDarkCSS = "css/custom-dark.css"
 
 # Custom list of Javascript files to load. Just like custom CSS you can place js files under
 # `static/js` folder and specify path here as `js/script-name.js`. You can also specify full url,
 # for example you may want to include external JS library.
-customJS = ["js/abc.js", "js/xyz.js", "https://code.jquery.com/jquery-3.4.1.js"]
+#customJS = ["js/abc.js", "js/xyz.js", "https://code.jquery.com/jquery-3.4.1.js"]
 
 # Main menu which appears below site header.
 [[menu.main]]
@@ -58,10 +59,10 @@ name = "Home"
 url = "/"
 weight = 1
 
-[[menu.main]]
-name = "All posts"
-url = "/posts"
-weight = 2
+#[[menu.main]]
+#name = "All posts"
+#url = "/posts"
+#weight = 2
 
 [[menu.main]]
 name = "About"
@@ -90,7 +91,10 @@ name = "LinkedIn"
 icon = "linkedin"
 url = "https://www.linkedin.com/in/ailan/"
 
-
+[[params.social]]
+name = "Twitch"
+icon = "twitch"
+url = "https://www.twitch.tv/ailancode"
 
 # Enable tags.
 [taxonomies]
