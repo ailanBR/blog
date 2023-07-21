@@ -1,4 +1,9 @@
 <div class="header-home">
+
+<!--	{{- if isset .Site.Params "favicon" -}}-->
+<!--	<img id="logo-home" src="{{ .Site.Params.favicon }}"/>-->
+<!--	{{- end -}}-->
+
 	<nav>
 		<ul class="flat">
 			{{ range .Site.Menus.main }}
@@ -10,7 +15,17 @@
 	</nav>
 	<div class="myself">
 		<base href="{{ .Site.BaseURL }}">
+		{{- if and (isset .Site.Params "hometitle") (isset .Site.Params "favicon") -}}
+		<h1 class="site-title">
+			<a href="{{ .Site.BaseURL }}"  style="display: flex;align-content: center;justify-content: center;vertical-align: bottom;">
+				<img class="letter-logo-home" src="{{ .Site.Params.favicon }}"/>
+				<span style="display: flex; align-items: center;">{{ .Site.Params.hometitle }}</span>
+			</a>
+		</h1>
+		{{- else -}}
 		<h1 class="site-title"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
+		{{- end -}}
+<!--		<h1 class="site-title"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>-->
 		<div class="site-description">
 			{{- if isset .Site.Params "subtitle" -}}
 			<h2>{{ .Site.Params.Subtitle | markdownify }}</h2>
