@@ -475,3 +475,33 @@ table th, table td {
     justify-content: center;
     padding: 20px;
 }
+
+.header-home #logo-home {
+    width: 200px;
+}
+
+.header-home .letter-logo-home {
+    width: 50px;
+}
+
+.header .letter-logo-home {
+    width: 50px;
+}
+
+.header .site-main-description {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.header .site-main-description nav {
+    margin: 0;
+    padding: 0;
+    border: none;
+    min-width: 50px;
+    margin-right: 20px;
+}
+
+.header .site-main-description nav ul svg {
+    max-height: 20px;
+}

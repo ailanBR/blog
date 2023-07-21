@@ -1,6 +1,13 @@
 <div class="header">
 	<base href="{{ .Site.BaseURL }}">
+	<div class="site-main-description">
 	<h1 class="site-title"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
+	{{- if isset .Site.Params "favicon" -}}
+	<nav class="nav social">
+		<img class="letter-logo-home" src="{{ .Site.Params.favicon }}"/>
+	</nav>
+	{{end}}
+	</div>
 	<div class="site-description">
 		{{- if isset .Site.Params "subtitle" -}}
 		<h2>{{ .Site.Params.Subtitle | markdownify }}</h2>
