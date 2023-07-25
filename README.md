@@ -1,5 +1,7 @@
 # blog
 
+[ailanbr.github.io/blog/](https://ailanbr.github.io/blog/)
+
 My personal blog using [Hugo](https://gohugo.io/) 
 
 # Links
