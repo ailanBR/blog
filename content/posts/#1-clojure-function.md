@@ -33,19 +33,28 @@ Parentheses `()` is the Clojure way to call a function, and what we did was call
 
 # The creator
 
-In the last step we call a predefined function, to create you own function one of the ways is call the `defn` function to create whatever we want, like that :
+In the last step we call a predefined function, to create you own function one of the ways is call the `def`, that is the way that we create vars in clojure and functions! like that :
+
+
+```Clojure
+(def hello-person (fn [name] (str "Hello world " name)))
+```
+
+> `def` function receive important parameters :
+>
+>`hello-person` => There we are defining the name that we want;
+>
+> `(fn)` => We use that to create a kind of anonymous function
+> 
+>`[name]` => An array of parameters, in this case our function have only one parameter `name`;
+>
+>`(str "Hello world" name)` => after the parameters array is where we play, we decide to call the function `str` using `"Hello world" name` as parameters.
+
+But that is not the common way to create functions in clojure, for that we have the `defn`, that do the same, but more sophisticated.
 
 ```Clojure
 (defn hello-person [name] (str "Hello world " name))
 ```
-
-> `defn` function receive important parameters :
->
->`hello-person` => There we are giving to our function;
-> 
->`[name]` => An array of parameters, in this case our function have only one parameter `name`;
-> 
->`(str "Hello world" name)` => after the parameters array is where we play, we decide to call the function `str` using `"Hello world" name` as parameters.
 
 **And calling** 
 
@@ -53,9 +62,11 @@ In the last step we call a predefined function, to create you own function one o
 (hello-person "Lob") ;Hello world Lob
 ```
 
-# Another beginning info
+# Another beginning info about def
 
-We see **one** of the ways to create functions in clojure using `defn` function, that is what we will do at most, another common thing in programming are vars, in clojure vars are created using the `def` function, like that :
+We see **one** of the ways to create functions in clojure using `def`, `fn` and `defn` function, that is what we will do at most.
+
+I mentioned that `defn` is the most used way to create functions and is important to know that `def` if the common way to create vars, like that :
 
 ```Clojure
 (def hello-lob "Hello world Lob")
