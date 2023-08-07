@@ -7,6 +7,7 @@ tags: [Investments, Crypto, MSFT, APPL, AMZN, GOOGL]
 > “The greatness of a man is not in how much wealth he acquires, but in his integrity and his ability to affect those around him positively.”
 > 
 > [Bob Marley](https://pt.wikipedia.org/wiki/Bob_Marley)
+
 # Resume
 
 This month the first idea was keep the strategy without strong chances in the balance, because of the already balanced allocation, lets look the allocation before the new investments :
